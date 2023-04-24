@@ -1,0 +1,11 @@
+
+
+# backend ignored files:
+/backend/node_modules
+/backend/.env
+
+# frontend ignored files:
+/frontend/node_modules
+/package.json
+/pacakge-lock.json
+/frontend/square/node_modules
